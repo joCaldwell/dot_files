@@ -1,0 +1,11 @@
+semanticTokens.inspect
+semanticTokens.inspect
+semanticTokens.clearCurrent
+editor.action.organizeImport
+editor.action.formatDocument
+editor.action.pickColor
+editor.action.formatDocument
+editor.action.pickColor
+editor.action.formatDocument
+semanticTokens.clearAll
+semanticTokens.checkCurrent
